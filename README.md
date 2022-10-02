@@ -6,4 +6,4 @@ As a result of an [Affordable Learning Georgia](https://www.affordablelearningge
 We used the low-cost homework system [Edfinity](edfinity.com). Edfinity courses are mapped to specific OER textbooks, and all problems are algorithmic and coded in an open-source problem format. The link to Edfinity's OpenStax Calculus 1 course is [here](https://edfinity.com/products/5c533d7d78811e0e5904234d).
 
 ### Note
-Please send any errata or corrections to [Joshua Roberts](mailto:jroberts7@ggc.edu). For instructor answer keys email [Kathy Pinzon](mailto:kpinzon@gg.edu).
+Please send any questions, errata or corrections to [Joshua Roberts](mailto:jroberts7@ggc.edu). For instructor answer keys email [Kathy Pinzon](mailto:kpinzon@ggc.edu).
